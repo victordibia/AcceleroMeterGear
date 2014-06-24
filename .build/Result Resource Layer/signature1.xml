@@ -4,7 +4,7 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>BRQdw/lo4eH0d0jkuo1h1ddmIhRII5sB8v4ORAPGMKs=</DigestValue>
+<DigestValue>5wf/HxVnkrdNPapckQltx5Jx7fPLOOt9ccBAsFTzktw=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -24,7 +24,7 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>iQNCq18Gk3UaQYgXq3J4zWnviM3p8jDVL6iBAKsMZFs=</DigestValue>
+<DigestValue>emONdUqMDFicS7i8s1wqCRm+N1l/YNR38iHqfgKjJfY=</DigestValue>
 </Reference>
 <Reference URI="js/jquery-1.9.1.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -36,7 +36,7 @@
 </Reference>
 <Reference URI="js/main.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>62lerTQoiltDO0sGS/T7qWJ3qWm60NPo0tIzhqcu/40=</DigestValue>
+<DigestValue>xTPRdwZlRU/Oc54Fn/04vKs1PvGDipCrE1sAKVbeTuk=</DigestValue>
 </Reference>
 <Reference URI="#prop">
 <Transforms>
@@ -47,11 +47,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-EIQvOJ7iCkoX5soNAQyZGYYf7p+PZhEIvhPOJQPn52MENasdImvfbAPtytV44JBXHlcNWYbuvTCh
-UZc4d5cXxP1yNDq82s7zxP8PWkwpokPnJh8qKBpBVupg2sxSeVAG2dagQBiCjXYJBZWftVwMbEtN
-oWaVzuzKmI1044Or4RKj48NVYzqI0YRBbLLQ8LY83+pmBvTLm1h2eQgYsVyBYWdcY4vdpYcLbFQf
-TZV/tTz2ow81VvXinvDk/yHHCqgXuQKFlqEUkobKHMIoAqV3ww0qmGw4wPKJWPiEY4DzHV/OqYpv
-bweK9oRa4w5q41nXf5LrWI6wvf8mCbBjWjmJ3g==
+CWWSQ5FzxsnA/cVv4xWp+niI9fna1+mi41cKmE9iskfSGnDgsTqimxABmy6gUyXBjzQA80T5atuY
+dZ7gh9WAbxN8BKe/ccgNco2EH3+mj4jmcbpUCBGL1VxsE2tzqu4C8U8jSEjWhLC0HLOK71KEnTrO
+v5ZLJHS8M+VtTAsYAVsE4suMwuonusXRaGf/mTXzaqTTnG1x+KsPJqQZIiS/2/VJugtID65YIPpW
+4OHBYc/95r76jjhRJYyhJ1ueLZLdx5OOzOKOw7ThG9SoMsvJcNtBvYbZ4l9AivhXPXbOMEAZYxr1
+I66c7ywUQS1tQdvYP6ty90Vdeg28yqhD5BEoFw==
 </SignatureValue>
 <KeyInfo>
 <X509Data>

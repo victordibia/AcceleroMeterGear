@@ -16,8 +16,10 @@ $(window).load(function(){
 	window.addEventListener('devicemotion', function(e) {
 		ax = e.accelerationIncludingGravity.x;
 		ay = -e.accelerationIncludingGravity.y;
+		az = -e.accelerationIncludingGravity.z;
 		document.getElementById("xaccel").innerHTML =  'X : ' +  ax;
 		document.getElementById("yaccel").innerHTML = 'Y : ' + ay;
+		document.getElementById("zaccel").innerHTML = 'Z : ' + az;
 
 	}); 
 
