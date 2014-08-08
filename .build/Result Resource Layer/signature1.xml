@@ -4,7 +4,7 @@
 <SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
 <Reference URI="author-signature.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>5wf/HxVnkrdNPapckQltx5Jx7fPLOOt9ccBAsFTzktw=</DigestValue>
+<DigestValue>orJ8OvO+ToOvQnKmExjRWlttSAwVjrkMti/bS5rGG44=</DigestValue>
 </Reference>
 <Reference URI="config.xml">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -24,7 +24,7 @@
 </Reference>
 <Reference URI="index.html">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>emONdUqMDFicS7i8s1wqCRm+N1l/YNR38iHqfgKjJfY=</DigestValue>
+<DigestValue>eRGCspA/Uht1dVuxRLPvpUOg8Tn4BXvNKz6qo8ZxZRs=</DigestValue>
 </Reference>
 <Reference URI="js/jquery-1.9.1.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
@@ -36,7 +36,7 @@
 </Reference>
 <Reference URI="js/main.js">
 <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
-<DigestValue>xTPRdwZlRU/Oc54Fn/04vKs1PvGDipCrE1sAKVbeTuk=</DigestValue>
+<DigestValue>eBI6vta2WBWfHlKRt8rZqzYFAW9v9i6ck1LFhRbH4zY=</DigestValue>
 </Reference>
 <Reference URI="#prop">
 <Transforms>
@@ -47,11 +47,11 @@
 </Reference>
 </SignedInfo>
 <SignatureValue>
-CWWSQ5FzxsnA/cVv4xWp+niI9fna1+mi41cKmE9iskfSGnDgsTqimxABmy6gUyXBjzQA80T5atuY
-dZ7gh9WAbxN8BKe/ccgNco2EH3+mj4jmcbpUCBGL1VxsE2tzqu4C8U8jSEjWhLC0HLOK71KEnTrO
-v5ZLJHS8M+VtTAsYAVsE4suMwuonusXRaGf/mTXzaqTTnG1x+KsPJqQZIiS/2/VJugtID65YIPpW
-4OHBYc/95r76jjhRJYyhJ1ueLZLdx5OOzOKOw7ThG9SoMsvJcNtBvYbZ4l9AivhXPXbOMEAZYxr1
-I66c7ywUQS1tQdvYP6ty90Vdeg28yqhD5BEoFw==
+ZX1LB+BfDkmkQQcG5vA8PeJcjgqCnXoDkyqmxyhw+/+zgEyAQSFU0fLdyaYFzNTbikmgdHiGrNcp
+5s5q3r0UDzbgspZlv7JxfXg6AChMmoJcDSOv0po4VsikklA7pp/WqUelgN20nuf7ZEe73iEWgvYx
+QL2rMcu41y3NP/HWW0v8ANYVX+4LGCyT8oVuSyIp/fD867mQNdBu/XP1bRy8Af64xN6JMgXtRlQe
+77gWVWga2ky+VMhtQxFtGionBiONTOVQJfXU5EtQtzdkp4louI6r7xtuxQTWmN2+EXrUaYVslGTB
+KqAqgckPtIKkd4QV/eiqsemgD3sa7LjKndpuAw==
 </SignatureValue>
 <KeyInfo>
 <X509Data>
